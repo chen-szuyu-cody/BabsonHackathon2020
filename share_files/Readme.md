@@ -1,3 +1,3 @@
-Share jupyternotebook of work
+Code of works for sharing purpose
 
-Some of them are in the process just in purpose to show part of works
+Some of them are in the process and incompleted
